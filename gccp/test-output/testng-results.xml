@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56679" started-at="2018-10-25T09:41:41Z" finished-at="2018-10-25T09:42:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56679" started-at="2018-10-25T09:41:41Z" finished-at="2018-10-25T09:42:38Z">
+      <class name="gccp.tests.Test1">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:gccp.tests.Test1@6eebc39e]" name="beforetest" is-config="true" duration-ms="6890" started-at="2018-10-25T09:41:41Z" finished-at="2018-10-25T09:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="sampleTest1()[pri:0, instance:gccp.tests.Test1@6eebc39e]" name="sampleTest1" duration-ms="19782" started-at="2018-10-25T09:41:48Z" finished-at="2018-10-25T09:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest1 -->
+        <test-method status="PASS" signature="sampleTest2()[pri:1, instance:gccp.tests.Test1@6eebc39e]" name="sampleTest2" duration-ms="6316" started-at="2018-10-25T09:42:08Z" finished-at="2018-10-25T09:42:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest2 -->
+        <test-method status="PASS" signature="sampleTest3()[pri:2, instance:gccp.tests.Test1@6eebc39e]" name="sampleTest3" duration-ms="23613" started-at="2018-10-25T09:42:14Z" finished-at="2018-10-25T09:42:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest3 -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:gccp.tests.Test1@6eebc39e]" name="aftertest" is-config="true" duration-ms="0" started-at="2018-10-25T09:42:38Z" finished-at="2018-10-25T09:42:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- gccp.tests.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
